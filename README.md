@@ -1,6 +1,7 @@
 # Teen Phone Addiction Analysis
 
 A comprehensive machine learning project that analyzes teen phone addiction patterns using advanced data science techniques and presents findings through an interactive web interface.
+streamlit app: https://teenaddictionlevetpredict-chpqxadcexrugkmmupwgue.streamlit.app
 
 ## 📊 Project Overview
 
